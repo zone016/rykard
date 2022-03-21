@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rykard.Embedded", "Rykard.Embedded\Rykard.Embedded.csproj", "{70C974DE-B54B-40FF-B24E-E8FC25DC242A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rykard.Service", "Rykard.Service\Rykard.Service.csproj", "{90B53470-3FFC-4630-9274-A94341030945}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rykard.Shared", "Rykard.Shared\Rykard.Shared.csproj", "{4E8D3BD7-6824-460E-A35D-989A6365EE69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C974DE-B54B-40FF-B24E-E8FC25DC242A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C974DE-B54B-40FF-B24E-E8FC25DC242A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C974DE-B54B-40FF-B24E-E8FC25DC242A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C974DE-B54B-40FF-B24E-E8FC25DC242A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B53470-3FFC-4630-9274-A94341030945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B53470-3FFC-4630-9274-A94341030945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B53470-3FFC-4630-9274-A94341030945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B53470-3FFC-4630-9274-A94341030945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E8D3BD7-6824-460E-A35D-989A6365EE69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8D3BD7-6824-460E-A35D-989A6365EE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8D3BD7-6824-460E-A35D-989A6365EE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8D3BD7-6824-460E-A35D-989A6365EE69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
